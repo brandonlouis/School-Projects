@@ -3,12 +3,12 @@
 <div align="center">
 
 ## [AZoom - Car Rental Website](https://github.com/brandonlouis/AZoom)
-![previewAZoom](./screenshots/azoom.png)
+![previewAZoom](https://github.com/brandonlouis/AZoom/blob/main/screenshots/desktop1.png)
 
 ## [flicket - Movie Ticketing Website](https://github.com/brandonlouis/flicket)
-![previewflicket](./screenshots/flicket.png)
+![previewflicket](https://github.com/brandonlouis/flicket/blob/master/screenshots/desktop2.png)
 
 ## [Fetch - Dog Breed Search Engine](https://github.com/brandonlouis/Fetch)
-![previewFetch](./screenshots/fetch.png)
+![previewFetch](https://github.com/brandonlouis/Fetch/blob/main/screenshots/desktop.png)
 
 </div>
