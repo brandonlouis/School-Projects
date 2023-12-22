@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## [Matchpoint - Online Sports Tournament Management Website (In progress)](https://github.com/brandonlouis/Matchpoint)
+## [Matchpoint - Sports Tournament Management Website (In progress)](https://github.com/brandonlouis/Matchpoint)
 ![previewMatchpoint](https://github.com/brandonlouis/Matchpoint/blob/master/screenshots/preview.png)
 
 ## [AZoom - Car Rental Website](https://github.com/brandonlouis/AZoom)
